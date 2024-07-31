@@ -1,0 +1,88 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0 144px 90px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    Line-height: 29.26px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+
+
+}
+
+.button-header {
+    font-Weight: 600px;
+    font-size: 24px;
+    Line-height: 29.26px;
+    color: #FFFFFF;
+    border-radius: 50px;
+    border: none;
+    Width: 130px;
+    Height: 41px;
+    background: #665AE1;
+    margin-right: 23px;
+}
+
+.imagem-logo {
+    Width: 568px;
+    Height: 500px;
+    margin-top: 144px;
+    margin-left: 125px;
+    display: inline-block;
+}
+ 
+section {
+    display: inline-block;
+}
+
+
+
+main {
+
+    h1 {
+
+        font-Weight: 900px;
+        font-size: 100px;
+        color: #515151;
+        Line-height: 121.9px;
+    }
+
+    h2 {
+        font-Weight: 500px;
+        font-Size: 58px;
+        Line-height: 70.7px;
+        color: #515151;
+    }
+
+    p {
+        font-weight: 400px;
+        font-size: 24px;
+        Line-height: 29.26px;
+        color: #848484;
+        width: 515px;
+    
+    }
+
+    .button-main {
+        background: #ADFF00;
+        border-radius: 48.5px;
+        font-weight: 700px;
+        font-size: 28px;
+        Line-height 34.13px;
+        color: #000000;
+        Width: 239px;
+        Height: 64px;
+        border: none;
+    }
+
+}
